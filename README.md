@@ -9,13 +9,21 @@ src="https://www.jackson.stark.k12.oh.us/cms/lib/OH02206107/Centricity/Domain/59
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilaghi18&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilaghi18" /> </p>
 
-- 🔭 I’m currently working on **Neumorphism Calculator using Html CSS & Javascript | Mini Project | Simple Calculator with Dark Mode**
+- 🔭 I’m currently working on **Apartment Price Prediction in a City
+Tools used:
+Python
 
-- 🌱 I’m currently learning **React Native**
+Pandas – for handling data
+
+Matplotlib & Seaborn – for visualizations
+
+Scikit-learn – for building the prediction model**
+
+- 🌱 I’m currently learning **Pyton and F#**
 
 - 📫 How to reach me **davidsilaghi58@gmail.com**
 
-- ⚡ Fun fact **Im funny**
+- ⚡ Fun fact **Im curently a computer scients student at Roskilde University RUC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
