@@ -2,7 +2,7 @@
 <img align="center" alt="welkom" width="1000" height="250"
 src="https://www.jackson.stark.k12.oh.us/cms/lib/OH02206107/Centricity/Domain/595/blobid2.gif">
 <h1 align="center">Hi 👋, I'm Silaghi David</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+<h3 align="center">A passionate frontend developer from Denmark</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
