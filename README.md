@@ -24,7 +24,7 @@ src="https://www.jackson.stark.k12.oh.us/cms/lib/OH02206107/Centricity/Domain/59
 
 - 📫 How to reach me **stud-silaghi@ruc.dk**
 
-- ⚡ Fun fact **Im curently a computer scients student at Roskilde University RUC**
+- ⚡ Fun fact **Im curently a Computer Science student at Roskilde University RUC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
