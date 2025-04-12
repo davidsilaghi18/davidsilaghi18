@@ -9,19 +9,20 @@ src="https://www.jackson.stark.k12.oh.us/cms/lib/OH02206107/Centricity/Domain/59
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilaghi18&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilaghi18" /> </p>
 
-- 🔭 I’m currently working on **Apartment Price Prediction in a City
+- 🔭 I’m currently working on **Apartment Price Prediction in a City**
+  
 Tools used:
-Python
+**Python**
 
-Pandas – for handling data
+**Pandas – for handling data**
 
-Matplotlib & Seaborn – for visualizations
+**Matplotlib & Seaborn – for visualizations**
 
-Scikit-learn – for building the prediction model**
+**Scikit-learn – for building the prediction model**
 
 - 🌱 I’m currently learning **Pyton and F#**
 
-- 📫 How to reach me **davidsilaghi58@gmail.com**
+- 📫 How to reach me **stud-silaghi@ruc.dk**
 
 - ⚡ Fun fact **Im curently a computer scients student at Roskilde University RUC**
 
