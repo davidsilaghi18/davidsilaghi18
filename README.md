@@ -11,8 +11,8 @@ src="https://www.jackson.stark.k12.oh.us/cms/lib/OH02206107/Centricity/Domain/59
 
 - 🔭 I’m currently working on **Apartment Price Prediction in a City**
   
-<p>Tools used:<br>
-**Python**</p>
+<p>Tools used:<br><br>
+<strong>Python</strong></p>
 
 **Pandas – for handling data**
 
