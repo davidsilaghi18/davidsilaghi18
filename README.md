@@ -63,6 +63,10 @@ An interactive AI assistant that answers questions from a dataset using OpenAI a
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40" alt="Streamlit" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="40" height="40" alt="F#" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI" /></a>
 
 </p>
 
