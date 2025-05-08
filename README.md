@@ -65,13 +65,26 @@ An interactive AI assistant that answers questions from a dataset using OpenAI a
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40" alt="Streamlit" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="40" height="40" alt="F#" /></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" /></a>
 <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI" /></a>
 
 </p>
 
 
- 
+ ### 🛠️ Tech Stack
+
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+- ![F#](https://img.shields.io/badge/F%23-378BBA?style=flat&logo=fsharp&logoColor=white)  
+- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
     
 
 
@@ -84,3 +97,9 @@ An interactive AI assistant that answers questions from a dataset using OpenAI a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilaghi18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
+
+## 📫 Contact
+📍 Denmark  
+📧 [stud-silaghi@ruc.dk](mailto:stud-silaghi@ruc.dk)  
+🔗 [LinkedIn](https://www.linkedin.com/in/silaghi-david-233a83201)  
