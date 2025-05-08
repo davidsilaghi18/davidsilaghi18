@@ -15,16 +15,29 @@
 
 ## 💡 About Me
 
-- 🎓 Computer Science student @ **Roskilde University (RUC), Denmark**
-- 💻 Focused on frontend development, automation, and clean UI/UX
-- 📊 Passionate about **data science**, real-world projects, and tech that solves problems
-- 🌍 Originally from **Romania 🇷🇴**, currently based in **Denmark 🇩🇰**
-- 📚 Learning: **Python**, **F#**, **SQL**, and leveling up my **JavaScript** skills
-- 📬 Reach me at: [stud-silaghi@ruc.dk](mailto:stud-silaghi@ruc.dk)
+- 🎓 Student @ **Roskilde University (RUC)**  
+- 🔬 Focused on **frontend dev**, **automation**, and **ML apps**
+- 💡 Passionate about **data science**, real-world projects & building useful tools  
+- 🌍 From **Romania**, living in **Denmark**  
+- 📚 Learning **Python**, **F#**, **SQL** & leveling up my **JavaScript** skills  
+- 📩 Reach me at: [stud-silaghi@ruc.dk](mailto:stud-silaghi@ruc.dk)
 
 ---
 
 ## 🚀 Current Projects
+
+### 🏢 Building Sustainability Classifier  
+A machine learning app that predicts whether a building is 🌱 **sustainable** or ❌ **not**, based on CO2 emissions, energy use, and size.  
+**Tech**: `Python` · `Pandas` · `Scikit-learn` · `Streamlit`  
+🔗 [GitHub Repo](https://github.com/davidsilaghi18/building_sustainability_classifier)
+
+---
+
+### 🤖 AI Assistant LCA  
+An interactive AI assistant that answers questions from a dataset using OpenAI and Streamlit.  
+**Tech**: `Python` · `OpenAI API` · `Pandas` · `Streamlit`  
+🔗 [GitHub Repo](https://github.com/davidsilaghi18/ai_assistant_lca)
+
 
 ### 🏠 Apartment Price Prediction in a City
 - 🔍 Predicting apartment prices based on city data  
@@ -37,6 +50,10 @@
 ---
 
 ## 🧰 Tech Stack
+
+HTML` `CSS` `Bootstrap` `JavaScript` `React`  
+`Python` `Pandas` `Scikit-learn` `Streamlit` `OpenAI API`  
+`SQL` `PostgreSQL` `F#` `.NET`  
 
 
 <p align="left">
