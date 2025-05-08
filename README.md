@@ -31,7 +31,6 @@ A machine learning app that predicts whether a building is 🌱 **sustainable** 
 **Tech**: `Python` · `Pandas` · `Scikit-learn` · `Streamlit`  
 🔗 [GitHub Repo](https://github.com/davidsilaghi18/building_sustainability_classifier)
 
----
 
 ### 🤖 AI Assistant LCA  
 An interactive AI assistant that answers questions from a dataset using OpenAI and Streamlit.  
@@ -51,9 +50,6 @@ An interactive AI assistant that answers questions from a dataset using OpenAI a
 
 ## 🧰 Tech Stack
 
-HTML` `CSS` `Bootstrap` `JavaScript` `React`  
-`Python` `Pandas` `Scikit-learn` `Streamlit` `OpenAI API`  
-`SQL` `PostgreSQL` `F#` `.NET`  
 
 
 <p align="left">
