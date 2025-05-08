@@ -64,7 +64,7 @@ An interactive AI assistant that answers questions from a dataset using OpenAI a
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter" /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40" alt="streamlit" /></a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" /></a>
+ <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/openai.svg" width="40" height="40" alt="OpenAI" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="40" height="40" alt="fsharp" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" /></a>
 </p>
